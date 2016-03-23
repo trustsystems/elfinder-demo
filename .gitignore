@@ -127,7 +127,7 @@ gradle-app.setting
 !gradle-wrapper.jar
 
 ####### Maven #######
-target/
+/target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
